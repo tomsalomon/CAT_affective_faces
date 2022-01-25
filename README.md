@@ -1,6 +1,8 @@
 # CAT_affective_faces
 Codes and data of two CAT experiments with affective faces examining  the association with depression tendency.
 
+![PHQ distribution](https://github.com/tomsalomon/CAT_affective_faces/blob/main/Figures/PHQ_Distributions.jpg)
+
 Cheak out the PDF [Report](https://github.com/tomsalomon/CAT_affective_faces/blob/main/MainAnalysisReport.pdf) in this git's main page, to see a summary of the results of both experiments. The repo also contains the original (MATLAB) codes used to run the experiments, the raw output files and the R scripts used to analyze the data. To run the analysis yourself, make sure you have R installed, install the required packages listed in the first lines of each script. The script uses relative paths, so make sure you save the entire content of the 'Output' directory as in the current git depository.
 
 A preregistration for Experiment 2 can be found in this [OSF project](osf.io/nt6u5/).

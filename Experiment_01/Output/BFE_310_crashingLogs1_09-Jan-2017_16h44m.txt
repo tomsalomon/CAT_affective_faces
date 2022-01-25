@@ -1,0 +1,4 @@
+training crashed:	 1
+probe demo crashed:	 0
+probe crashed:	 0
+RecognitionNewOld crashed:	 0

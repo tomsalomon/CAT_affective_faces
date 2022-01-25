@@ -1,0 +1,2 @@
+subjectID	 runtrial	 onsettime	 ImageLeft	 ImageRight	 StimNumLeft	 StimNumRight	 Response	 Outcome	 RT
+BFE_337	1	5.172316e-01	4251.jpg	3224.jpg	8	4	x	999	999000

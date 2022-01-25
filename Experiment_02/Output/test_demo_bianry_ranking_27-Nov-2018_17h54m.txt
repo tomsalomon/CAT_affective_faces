@@ -1,0 +1,9 @@
+subjectID	 runtrial	 onsettime	 ImageLeft	 ImageRight	 StimNumLeft	 StimNumRight	 Response	 Outcome	 RT
+test	1	5.342687e-01	4051.jpg	3099.jpg	6	2	i	0	5.357267e+02
+test	2	3.019847e+00	3090.jpg	4251.jpg	1	8	u	0	3.452868e+02
+test	3	5.522715e+00	3224.jpg	4084.jpg	4	7	x	999	999000
+test	4	8.042935e+00	3185.jpg	4001.jpg	3	5	x	999	999000
+test	5	1.054548e+01	3099.jpg	3185.jpg	2	3	x	999	999000
+test	6	1.304787e+01	4251.jpg	4051.jpg	8	6	x	999	999000
+test	7	1.555111e+01	3090.jpg	3224.jpg	1	4	x	999	999000
+test	8	1.803724e+01	4084.jpg	4001.jpg	7	5	x	999	999000

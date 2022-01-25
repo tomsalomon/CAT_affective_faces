@@ -1,0 +1,2 @@
+Trial	StimName	Liking	RT
+Trial	StimName	Liking	RT

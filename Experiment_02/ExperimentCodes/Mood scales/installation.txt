@@ -1,0 +1,26 @@
+***************************** Mood Scale: Installation and Running Instructions ***************************************
+
+Installing:
+	1. Install python: http://python.org/ftp/python/2.7.2/python-2.7.2.amd64.msi
+		a. OK your way through install process.
+		b. If link doesn't work, or a different version is needed, download v.2.7.2 from http://python.org/download/
+
+	2. Install python slider addon: http://downloads.sourceforge.net/wxpython/wxPython2.8-win64-unicode-2.8.12.1-py27.exe
+		a. OK your way through install process.
+
+	3. Edit config.txt file with parameters (left end is scale minimum; right = maximum). Save when done.
+		a. Parameter 1: slide title
+		b. Parameter 2: window width
+		c. Parameter 3: scale minimum (left)
+		d. Parameter 4: scale maximum (right)
+		e. Parameter 5: scale minimum text
+		f. Parameter 6: scale maximum text
+
+Running:
+	1. Run the scale.py file.
+	2. Enter Subject ID and Session number.
+	3. Select a position on the scale.
+	4. When the Submit button is pressed, a text file with the scale entry is saved with subject ID and session making up the file name.
+
+********************** Developed at Yair Bar-Haim's Lab, Tel-Aviv University, Israel **********************
+********************** http://www.tau.ac.il/~yair1/ *******************************************************

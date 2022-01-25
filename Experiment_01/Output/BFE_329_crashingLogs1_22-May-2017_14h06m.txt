@@ -1,0 +1,6 @@
+Binary ranking demo crashed:	 0
+Binary ranking crashed:	 0
+training crashed:	 0
+probe demo crashed:	 0
+probe crashed:	 0
+RecognitionNewOld crashed:	 0

@@ -1,0 +1,9 @@
+subjectID	 runtrial	 onsettime	 ImageLeft	 ImageRight	 StimNumLeft	 StimNumRight	 Response	 Outcome	 RT
+BFE_316	1	5.330460e-01	4001.jpg	3099.jpg	5	2	x	999	999000
+BFE_316	2	3.035835e+00	3224.jpg	4251.jpg	4	8	x	999	999000
+BFE_316	3	5.538623e+00	4051.jpg	4084.jpg	6	7	x	999	999000
+BFE_316	4	8.041490e+00	3185.jpg	3090.jpg	3	1	x	999	999000
+BFE_316	5	1.054420e+01	4084.jpg	3090.jpg	7	1	u	0	1.035466e+03
+BFE_316	6	1.303031e+01	4251.jpg	4001.jpg	8	5	i	0	6.933539e+02
+BFE_316	7	1.553320e+01	3099.jpg	3224.jpg	2	4	u	0	7.744620e+02
+BFE_316	8	1.801935e+01	3185.jpg	4051.jpg	3	6	u	0	1.088316e+03

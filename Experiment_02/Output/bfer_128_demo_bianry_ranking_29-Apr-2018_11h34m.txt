@@ -1,0 +1,9 @@
+subjectID	 runtrial	 onsettime	 ImageLeft	 ImageRight	 StimNumLeft	 StimNumRight	 Response	 Outcome	 RT
+bfer_128	1	5.172443e-01	4001.jpg	4051.jpg	5	6	u	0	1.247166e+03
+bfer_128	2	3.020049e+00	3224.jpg	3099.jpg	4	2	u	0	1.120373e+03
+bfer_128	3	5.522877e+00	4084.jpg	4251.jpg	7	8	i	0	9.695351e+02
+bfer_128	4	8.008665e+00	3185.jpg	3090.jpg	3	1	i	0	1.379744e+03
+bfer_128	5	1.051180e+01	3185.jpg	4084.jpg	3	7	i	0	1.228606e+03
+bfer_128	6	1.301453e+01	4001.jpg	4251.jpg	5	8	i	0	1.213882e+03
+bfer_128	7	1.551731e+01	4051.jpg	3224.jpg	6	4	i	0	1.399097e+03
+bfer_128	8	1.802014e+01	3090.jpg	3099.jpg	1	2	u	0	1.512272e+03

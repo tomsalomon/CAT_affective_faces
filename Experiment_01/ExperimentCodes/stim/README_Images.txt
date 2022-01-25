@@ -1,0 +1,1 @@
+"The current experiment used 80 face stimuli from the Karolinska dataset. We do not own the copyrights for this DS, thus we cannot share it here. Contact Tom Salomon if you'd like some more information about the stimuli used in the experiment"
